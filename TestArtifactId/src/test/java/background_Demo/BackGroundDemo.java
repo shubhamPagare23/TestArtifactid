@@ -55,7 +55,7 @@ public class BackGroundDemo {
 
 	@When("User clicks on request loan option")
 	public void user_clicks_on_request_loan_option() {
-		System.out.println("TEST GIT");
+		System.out.println("TEST GIT ACVFV");
 	}
 
 	@Then("Apply for a loan should be visible")
